@@ -12,7 +12,7 @@ The firm wants to make investments in a few companies. The CEO wants to understa
 
 Based on the avobe contrains we need to plan an investment Stratergy for the company to invest where most other investors are investing.
 
-<b>Data Gathering:<\b>
+<b>Data Gathering:</b>
 We have below mention data avilable to analyse historical trending and petterns and categorised the sector classification:
 
   1) Company basic data (company.txt)
