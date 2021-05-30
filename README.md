@@ -28,3 +28,19 @@ Goal of the Data Analysis:
   1) Investment type analysis
   2) Country analysis
   3) Sector analysis
+
+<b>Findings</b>
+
+1) Funding Type : We found that Private Equity, Seed and Venture Types are the main sector for investment.
+2) Major investment was done in various countries like USA, Great Britain and India.
+3) Most suitable sectors in above mentioned countries are : Others, Cleantech/Semiconductors, Social/Finance/Analytics/Advertising.
+
+
+<b>Recommendation</b>
+
+This Project is only for exploring and analysing the data using EDA (Exploratory Data Analysis). The prediction for future can be done using Machin Learning Models .
+
+<b>Privacy Statement</b>
+* No Client data or confidential data has been used. The data used for analysis is downloaded from open source repositories.
+* Non of the organizational server and credentials has been used during this project.
+* This is a non-monitorial project only for learning and assignment perspective.
